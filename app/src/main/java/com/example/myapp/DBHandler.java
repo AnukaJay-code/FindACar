@@ -25,7 +25,7 @@ private String Table_Name;
     @Override
     public void onCreate(SQLiteDatabase db) {
 
-/*
+
         String SQL_CREATE_ENTRIES = "CREATE TABLE " + VehicleMaster.Vehicles.TABLE_NAME + "("+
                 VehicleMaster.Vehicles.COLUMN_NAME_VID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
                 VehicleMaster.Vehicles.COLUMN_NAME_PHONE + "INTEGER," +
@@ -40,7 +40,7 @@ private String Table_Name;
 
 
         db.execSQL(SQL_CREATE_ENTRIES);
-*/
+
 /*
        String SQL_CREATE_ENTRIES = ("CREATE TABLE " + TABLE_NAME + "( phone INTEGER PRIMARY KEY)");
 

@@ -25,6 +25,17 @@
         <activity android:name=".JeepDataActivity" />
         <activity android:name=".BikeDataActivity" />
 
+        <!-- -->
+        <activity android:name=".activity_add_question"
+            android:parentActivityName=".MainActivityFAQ"></activity>
+        <activity android:name=".MainActivityFAQ"
+            android:launchMode="singleTop"><!--stop calling the on create method when back -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

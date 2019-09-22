@@ -41,6 +41,13 @@ public class HomePage extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void onClickFaq(View view){
+
+        Intent intent = new Intent(this,MainActivityFAQ.class);
+        startActivity(intent);
+    }
+
+
 
 
 
