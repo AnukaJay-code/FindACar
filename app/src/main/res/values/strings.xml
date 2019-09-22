@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="profilename">Profile Name</string>
+    <string name="view">Vew</string>
+    <string name="car">CAR</string>
+    <string name="jeep">JEEP</string>
+    <string name="bike">BIKE</string>
+    <string name="what">What are you looking for?</string>
+    <string name="applogo">logo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="edition">Edition</string>
+    <string name="condition">Conditon</string>
+    <string name="transmission">Transmission</string>
+    <string name="fuel">Fuel type</string>
+    <string name="engine">Engine Capacity</string>
+    <string name="price">Price</string>
+    <string name="add">+</string>
+    <string name="brandNew">Brand New</string>
+    <string name="used">Used</string>
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="petrol">Petrol</string>
+    <string name="diesel">Diesel</string>
+    <string name="post">Post Advertisement</string>
+    <string name="phone">Phone</string>
+    <string name="viewAll">View All</string>
+    <string name="save">Save</string>
+    <string name="savechanges">Save Changes</string>
+    <string name="delete1">Delete</string>
+    <string name="catrd">Car</string>
+    <string name="jeeprd">Jeep</string>
+    <string name="bikerd">Bike</string>
+    <string name="vehicletype">Select Vehicle Type</string>
+    <string name="search">Search here...</string>
+    <string name="login">Signup/Login</string>
+
+</resources>
