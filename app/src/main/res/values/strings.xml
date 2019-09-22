@@ -36,6 +36,10 @@
     <string name="vehicletype">Select Vehicle Type</string>
     <string name="search">Search here...</string>
     <string name="login">Signup/Login</string>
+    <string name="t3">Delete All Questios</string>
+    <string name="t2">FAQ</string>
+    <string name="t4">Save</string>
+    <string name="b1">save</string>
 
     <string name="updateproo">Update Your Profile</string>
     <string name="app">Find A Car</string>
