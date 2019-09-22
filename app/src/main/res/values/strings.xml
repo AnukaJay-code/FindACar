@@ -37,4 +37,26 @@
     <string name="search">Search here...</string>
     <string name="login">Signup/Login</string>
 
+    <string name="updateproo">Update Your Profile</string>
+    <string name="app">Find A Car</string>
+    <string name="btn1">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="btn3">Cancel</string>
+    <string name="cannotCreateAcc">Can Not Create New Account !</string>
+    <string name="changepro">Change Profile</string>
+    <string name="error">Error</string>
+    <string name="failed">Failed !</string>
+    <string name="invalid">Invalid Account !</string>
+    <string name="logo">EVERYTHING WE DO IS DRIVEN BY YOU</string>
+    <string name="logout">Log Out</string>
+    <string name="ok">OK</string>
+    <string name="save1">Save</string>
+    <string name="signupnow">Get On Board !</string>
+    <string name="txt1">User Name</string>
+    <string name="txt2">Password</string>
+    <string name="txt3">Full Name</string>
+    <string name="txt4">e-mail</string>
+    <string name="usernameExists">User Name Exists !</string>
+    <string name="welcomeMsg">Welcome Back</string>
+
 </resources>

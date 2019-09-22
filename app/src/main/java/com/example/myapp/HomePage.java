@@ -41,6 +41,12 @@ public class HomePage extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void onClickLogin(View view){
+
+        Intent intent = new Intent(this,LoginMain.class);
+        startActivity(intent);
+    }
+
 
 
 

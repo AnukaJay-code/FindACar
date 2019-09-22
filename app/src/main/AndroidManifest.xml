@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".EditDataActivity"></activity>
+
+        <activity android:name=".EditDataActivity" />
         <activity android:name=".Vehicle_form" />
         <activity android:name=".HomePage" />
         <activity android:name=".MainActivity" />
         <activity android:name=".splashActivity">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,6 +24,14 @@
         <activity android:name=".ListDataActivity" />
         <activity android:name=".JeepDataActivity" />
         <activity android:name=".BikeDataActivity" />
+        <activity android:name=".LoginMain" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".SignUpActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
 
     </application>
 
